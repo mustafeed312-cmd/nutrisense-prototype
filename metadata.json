@@ -1,0 +1,5 @@
+{
+  "name": "NutriSense Prototype",
+  "description": "Interactive high-fidelity prototype for NutriSense, featuring Login, Home, Goals, and Stats screens with seamless navigation.",
+  "requestFramePermissions": []
+}
